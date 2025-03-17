@@ -19,4 +19,4 @@ I'm an experienced professional with a strong background in **software engineeri
   </a>
 </p>
 
-I [Cloud Native Friday](Iscriviti su LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7267281680451731457) a bi-weekly newsletter where each 2 weeks I'll do an in-depht look at a topic from the Cloud Native landscape. So what you are waiting for? Subscribe now!
+I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7267281680451731457) a bi-weekly newsletter where each 2 weeks I'll do an in-depht look at a topic from the Cloud Native landscape. So what you are waiting for? Subscribe now!
