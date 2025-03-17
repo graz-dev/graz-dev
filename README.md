@@ -18,6 +18,7 @@ I'm an experienced professional with a strong background in **software engineeri
     <img alt="castograziano.com" src="https://img.shields.io/badge/castograziano.com-000000?style=for-the-badge&logo=Castograziano.com&logoColor=white" />
   </a>
 </p>
+</br>
 
 I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7267281680451731457) a bi-weekly newsletter where each 2 weeks I'll do an in-depht look at a topic from the Cloud Native landscape. So what you are waiting for? Subscribe now!
 
@@ -32,4 +33,10 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 - 👉🏻 **DevOpsDays Austin** | 🇺🇸 Austin, TX ・ 02 May 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM]()
 - 👉🏻 **Cloud Native Malaga Meetup** | 🛜 Online ・ 07 May 2025 | [→ The Kubernetes compass: navigating space and time for energy efficiency](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-the-kubernetes-compass-navigating-space-and-time-for-energy-efficiency/)
 - 👉🏻 **Platmosphere** | 🇮🇹 Milan ・ 20 May 2025 | [→ Piattaforme ed economia circolare del software: il caso Azimut Marketplace](https://platmosphere.com/agenda)
+
+[ 👉🏻 Find all my past talks here](https://www.castograziano.com/talks/).
+
+### Latest publications
+
+
 
