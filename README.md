@@ -1,6 +1,6 @@
 ## Hey there 👋🏻 
 
-> DevRel Engineer @ Mia-Platform, International Speaker, Green Software Champion, OSS and Cloud Native Advocate, Ex-Product Manager and Software Engineer.
+> DevRel Engineer @ Mia-Platform, International Speaker, Green Software Champion, OSS and Cloud Native Advocate, Former Product Manager and Software Engineer.
 
 I’m Graziano, **Developer Relations Engineer** at [Mia-Platform](https://mia-platform.eu/). My mission? To share the exciting world of cloud-native with you — and this is your gateway in!
 
