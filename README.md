@@ -6,7 +6,7 @@ I’m Graziano, **Developer Relations Engineer** at [Mia-Platform](https://mia-p
 
 I'm an experienced professional with a strong background in **software engineering**, **solution architecture**, and **product management** with a proven ability to design and implement distributed software solutions, guide technical teams, and drive the adoption of agile practices. I'm skilled in working closely with clients and prospects to understand business needs and translate them into scalable technical solutions. I'm currently focused on **product evangelism**, acting as a bridge between users and R&D teams, while fostering global relationships.
 
-<h3 align="center">Find me on</h3>
+<h3 align="center">Find me on 👇🏻</h3>
 <p align="center">
   <a href="https://github.com/graz-dev" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,3 +18,5 @@ I'm an experienced professional with a strong background in **software engineeri
     <img alt="castograziano.com" src="https://img.shields.io/badge/castograziano.com-000000?style=for-the-badge&logo=Castograziano.com&logoColor=white" />
   </a>
 </p>
+
+I [Cloud Native Friday](Iscriviti su LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7267281680451731457) a bi-weekly newsletter where each 2 weeks I'll do an in-depht look at a topic from the Cloud Native landscape. So what you are waiting for? Subscribe now!
