@@ -1,3 +1,15 @@
 ## Graziano Casto
 
-> DevRel Engineer @ Mia-Platform, International Speaker, Green Software Champion, OSS and Cloud Native Advocate, Ex-Product Manager and Software Engineer**
+> DevRel Engineer @ Mia-Platform, International Speaker, Green Software Champion, OSS and Cloud Native Advocate, Ex-Product Manager and Software Engineer
+
+I'm an experienced professional with a strong background in **software engineering**, **solution architecture**, and **product management** with a proven ability to design and implement distributed software solutions, guide technical teams, and drive the adoption of agile practices. I'm skilled in working closely with clients and prospects to understand business needs and translate them into scalable technical solutions. I'm currently focused on **product evangelism**, acting as a bridge between users and R&D teams, while fostering global relationships.
+
+<h3 align="center">Find me on</h3>
+<p align="center">
+  <a href="https://github.com/graz-dev" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/castograziano/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+</p>
