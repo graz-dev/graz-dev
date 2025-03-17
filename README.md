@@ -39,7 +39,7 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 ### Featured publications
 
 - 👉🏻 [AI Agents: future of automation or overhyped buzzword?](https://dzone.com/articles/ai-agents-future-of-automation-or-overhyped-buzzword) | DZONE ・ 20 February 2025
-- 👉🏻 [The energy efficiency of JVMs and the role of GraalVM]([https://dzone.com/articles/ai-agents-future-of-automation-or-overhyped-buzzword](https://dzone.com/articles/energy-efficiency-jvms-role-graalvm)) | DZONE ・ 29 January 2025
+- 👉🏻 [The energy efficiency of JVMs and the role of GraalVM](https://dzone.com/articles/energy-efficiency-jvms-role-graalvm) | DZONE ・ 29 January 2025
 - 👉🏻 [Platform journey map: shape your platform strategy](https://www.cncf.io/blog/2025/01/09/platform-journey-map-shape-your-platform-strategy/) | CNCF ・ 9 January 2025
 
 [ 👉🏻 Find all my publications here](https://www.castograziano.com/blog/).
