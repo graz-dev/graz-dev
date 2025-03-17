@@ -23,14 +23,14 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-#### 👉🏻 Cloud Native Washington DC
+- 👉🏻 Cloud Native Washington DC
 🇺🇸 Washington DC ・ 18 March 2025 | <a href="https://community.cncf.io/events/details/cncf-cloud-native-dc-presents-from-dora-to-the-space-and-beyond-metrics-to-drive-platform-engineering/" target="_blank"> → From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives </a>
 
-###### 👉🏻 Conf42 Large Language Models
-<p style="font-size: 0.8rem; margin-top: 0;"> 🛜 Online ・ 20 March 2025 | <a href="https://www.conf42.com/Large_Language_Models_LLMs_2025_Graziano_Casto_workloads_cloud_environments" target="_blank"> → Challenges and takeaways of managing AI workloads on cloud environments </a></p>
+- 👉🏻 Conf42 Large Language Models
+🛜 Online ・ 20 March 2025 | <a href="https://www.conf42.com/Large_Language_Models_LLMs_2025_Graziano_Casto_workloads_cloud_environments" target="_blank"> → Challenges and takeaways of managing AI workloads on cloud environments </a>
 
-###### 👉🏻 SRE DAY London
-<p style="font-size: 0.8rem; margin-top: 0;"> 🇬🇧 London ・ 28 March 2025 | <a href="https://sreday.com/2025-london-q1/Eric_D_Schabell__Graziano_Casto_Chronosphere__MiaPlatform_When_Platform_Engineers_meet_SREs_The_Birt" target="_blank"> → When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers </a></p>
+- 👉🏻 SRE DAY London
+🇬🇧 London ・ 28 March 2025 | <a href="https://sreday.com/2025-london-q1/Eric_D_Schabell__Graziano_Casto_Chronosphere__MiaPlatform_When_Platform_Engineers_meet_SREs_The_Birt" target="_blank"> → When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers </a>
 
 ###### 👉🏻 KubeCon EU Cloud Native Rejekts
 <p style="font-size: 0.8rem; margin-top: 0;"> 🇬🇧 London ・ 30 March 2025 | <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/talk/AD8HH3/" target="_blank"> → From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives </a></p>
