@@ -23,9 +23,9 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 Cloud Native Washington DC
+- 👉🏻 **Cloud Native Washington DC** | 🇺🇸 Washington DC ・ 18 March 2025 | [→ From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives](https://community.cncf.io/events/details/cncf-cloud-native-dc-presents-from-dora-to-the-space-and-beyond-metrics-to-drive-platform-engineering/)
 
-🇺🇸 Washington DC ・ 18 March 2025 | <a href="https://community.cncf.io/events/details/cncf-cloud-native-dc-presents-from-dora-to-the-space-and-beyond-metrics-to-drive-platform-engineering/" target="_blank"> → From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives </a>
+🇺🇸 Washington DC ・ 18 March 2025 | <a href="" target="_blank">  </a>
 
 - 👉🏻 Conf42 Large Language Models
 🛜 Online ・ 20 March 2025 | <a href="https://www.conf42.com/Large_Language_Models_LLMs_2025_Graziano_Casto_workloads_cloud_environments" target="_blank"> → Challenges and takeaways of managing AI workloads on cloud environments </a>
