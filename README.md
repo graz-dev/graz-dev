@@ -24,7 +24,6 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **Conf42 Large Language Models** | 🛜 Online ・ 20 March 2025 | [→ Challenges and takeaways of managing AI workloads on cloud environments](https://www.conf42.com/Large_Language_Models_LLMs_2025_Graziano_Casto_workloads_cloud_environments)
 - 👉🏻 **SRE DAY London** | 🇬🇧 London ・ 28 March 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://sreday.com/2025-london-q1/Eric_D_Schabell__Graziano_Casto_Chronosphere__MiaPlatform_When_Platform_Engineers_meet_SREs_The_Birt)
 - 👉🏻 **KubeCon EU Cloud Native Rejekts** | 🇬🇧 London ・ 30 March 2025 | [→ From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/talk/AD8HH3/)
 - 👉🏻 **Cloud Native Los Angeles Meetup** | 🛜 Online ・ 11 April 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
