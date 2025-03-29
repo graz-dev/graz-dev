@@ -24,13 +24,13 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **SRE DAY London** | 🇬🇧 London ・ 28 March 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://sreday.com/2025-london-q1/Eric_D_Schabell__Graziano_Casto_Chronosphere__MiaPlatform_When_Platform_Engineers_meet_SREs_The_Birt)
 - 👉🏻 **KubeCon EU Cloud Native Rejekts** | 🇬🇧 London ・ 30 March 2025 | [→ From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/talk/AD8HH3/)
 - 👉🏻 **Cloud Native Los Angeles Meetup** | 🛜 Online ・ 11 April 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
 - 👉🏻 **OpenUK London Meetup** | 🇬🇧 London ・ 23 April 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM](https://www.meetup.com/it-IT/openuk/events/305609870/)
 - 👉🏻 **DevOpsDays Austin** | 🇺🇸 Austin, TX ・ 02 May 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM]()
 - 👉🏻 **Cloud Native Malaga Meetup** | 🛜 Online ・ 07 May 2025 | [→ The Kubernetes compass: navigating space and time for energy efficiency](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-the-kubernetes-compass-navigating-space-and-time-for-energy-efficiency/)
 - 👉🏻 **Platmosphere** | 🇮🇹 Milan ・ 20 May 2025 | [→ Piattaforme ed economia circolare del software: il caso Azimut Marketplace](https://platmosphere.com/agenda)
+- 👉🏻 **KCD NYC** | 🇺🇸 New York City ・ 04 June 2025 | [→ Round Table: When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
 
 [ 👉🏻 Find all my past talks here](https://www.castograziano.com/talks/).
 
