@@ -24,7 +24,6 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **KubeCon EU Cloud Native Rejekts** | 🇬🇧 London ・ 30 March 2025 | [→ From DORA to the SPACE and beyond: metrics to drive platform engineering initiatives](https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/talk/AD8HH3/)
 - 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 02 April 2025 | [→ Platform Engineering untold truths: is it just an infrastructure matter?]()
 - 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 03 April 2025 | [→ Scale before it hurts: KEDA for data-intensive apps]()
 - 👉🏻 **Cloud Native Los Angeles Meetup** | 🛜 Online ・ 11 April 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
