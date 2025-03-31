@@ -24,8 +24,8 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 02 April 2025 | [→ Platform Engineering untold truths: is it just an infrastructure matter?]()
-- 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 03 April 2025 | [→ Scale before it hurts: KEDA for data-intensive apps]()
+- 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 02 April 2025 | [→ Platform Engineering untold truths: is it just an infrastructure matter?](https://tag-app-delivery.cncf.io/blog/tag-app-delivery-at-kubecon-eu-2025/)
+- 👉🏻 **KubeCon EU TAG App Delivery Booth** | 🇬🇧 London ・ 03 April 2025 | [→ Scale before it hurts: KEDA for data-intensive apps](https://tag-app-delivery.cncf.io/blog/tag-app-delivery-at-kubecon-eu-2025/)
 - 👉🏻 **Cloud Native Los Angeles Meetup** | 🛜 Online ・ 11 April 2025 | [→ When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
 - 👉🏻 **OpenUK London Meetup** | 🇬🇧 London ・ 23 April 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM](https://www.meetup.com/it-IT/openuk/events/305609870/)
 - 👉🏻 **DevOpsDays Austin** | 🇺🇸 Austin, TX ・ 02 May 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM]()
