@@ -24,7 +24,6 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **OpenUK London Meetup** | 🇬🇧 London ・ 23 April 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM](https://www.meetup.com/it-IT/openuk/events/305609870/)
 - 👉🏻 **DevOpsDays Austin** | 🇺🇸 Austin, TX ・ 02 May 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM]()
 - 👉🏻 **Cloud Native Malaga Meetup** | 🛜 Online ・ 07 May 2025 | [→ The Kubernetes compass: navigating space and time for energy efficiency](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-the-kubernetes-compass-navigating-space-and-time-for-energy-efficiency/)
 - 👉🏻 **Platmosphere** | 🇮🇹 Milan ・ 20 May 2025 | [→ Piattaforme ed economia circolare del software: il caso Azimut Marketplace](https://platmosphere.com/agenda)
