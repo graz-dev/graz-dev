@@ -24,7 +24,6 @@ I run [Cloud Native Friday](https://www.linkedin.com/build-relation/newsletter-f
 
 ### Next Events 
 
-- 👉🏻 **DevOpsDays Austin** | 🇺🇸 Austin, TX ・ 02 May 2025 | [→ Platform Engineers assemble! Create your FaaS Platform using WASM]()
 - 👉🏻 **Cloud Native Malaga Meetup** | 🛜 Online ・ 07 May 2025 | [→ The Kubernetes compass: navigating space and time for energy efficiency](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-the-kubernetes-compass-navigating-space-and-time-for-energy-efficiency/)
 - 👉🏻 **Platmosphere** | 🇮🇹 Milan ・ 20 May 2025 | [→ Piattaforme ed economia circolare del software: il caso Azimut Marketplace](https://platmosphere.com/agenda)
 - 👉🏻 **KCD NYC** | 🇺🇸 New York City ・ 04 June 2025 | [→ Round Table: When Platform Engineers meet SREs: the birth of Observability-as-a-Service superpowers](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-observability-as-a-service-when-platform-engineers-and-sres-join-forces/)
