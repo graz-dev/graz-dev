@@ -1,6 +1,6 @@
 ## Hey there 👋🏻 
 
-> DevRel Engineer @ Mia-Platform, Kubernetes v1.34 Release Team (Comms), OSS and Cloud Native Advocate, Green Software Champion, Former Product Manager and Software Engineer.
+> DevRel Engineer @ Mia-Platform, Tech Lead @ CNCF TAG Developer Experience, Kubernetes v1.34 Release Team (Comms) & SIG Docs Subproject Owner, OSS and Cloud Native Advocate, Green Software Champion.
 
 I’m Graziano, **Developer Relations Engineer** at [Mia-Platform](https://mia-platform.eu/). My mission? To share the exciting world of Cloud Native with you, and this is your gateway in!
 
