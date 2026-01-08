@@ -1,10 +1,8 @@
 ## Hey there 👋🏻 
 
-> DevRel Engineer @ Mia-Platform, Tech Lead @ CNCF TAG Developer Experience, Kubernetes v1.34 Release Team (Comms) & SIG Docs Subproject Owner, OSS and Cloud Native Advocate, Green Software Champion.
+>  Devloper Relations Engineer @ Akamas | Tech Lead @ CNCF TAG Developer Experience | Kubernetes v1.35 Release Comms Lead | Kubernetes Blog Maintainer | OSS & Cloud Native Advocate 
 
-I’m Graziano, **Developer Relations Engineer** at [Mia-Platform](https://mia-platform.eu/). My mission? To share the exciting world of Cloud Native with you, and this is your gateway in!
-
-I'm an experienced professional with a strong background in **software engineering**, **solution architecture**, and **product management** with a proven ability to design and implement distributed software solutions, guide technical teams, and drive the adoption of agile practices. I'm skilled in working closely with clients and prospects to understand business needs and translate them into scalable technical solutions. I'm currently focused on **product evangelism**, acting as a bridge between users and R&D teams, while fostering global relationships.
+I’m a **DevRel Engineer** at [Akamas](https://akamas.io/), where I spend my days convincing computers to stop being lazy and start being efficient. A former distributed systems developer and product manager, I’m now on a mission to optimize the entire cloud-native universe, one Pod at a time. As a Tech Lead for the CNCF TAG DevEx and a member of the Kubernetes Release Team since v1.34, I balance my deep infrastructure roots with a passion for developer happiness. Obsessed with AI, Platform Engineering, and saving the planet through better code, I’m basically trying to make the cloud faster, greener, and significantly less annoying for everyone.
 
 <h3 align="center">Find me on 👇🏻</h3>
 <p align="center">
