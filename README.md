@@ -1,20 +1,4 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,60:1a1a1a,100:f15a24&height=180&section=header&text=Graziano%20Casto&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Making%20cloud%20native%20easier%20for%20the%20human%20inside%20it.&descAlignY=58&descSize=16" alt="header" />
-</p>
-
-<p align="center">
-  <a href="https://castograziano.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F15A24&center=true&vCenter=true&width=640&lines=Developer+Advocate+%40+Akuity;Co-Chair+%40+CNCF+TAG+DevEx;Platform+Engineering+%C2%B7+GitOps+%C2%B7+Kubernetes+%C2%B7+DevEx" alt="typing" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://castograziano.com"><img src="https://img.shields.io/badge/castograziano.com-111111?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/castograziano/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=f15a24" /></a>
-  <img src="https://komarev.com/ghpvc/?username=graz-dev&style=for-the-badge&color=f15a24&label=profile+views" />
-</p>
-
+<!-- ============ HEADER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,60:1a1a1a,100:f15a24&height=180&section=header&text=Graziano%20Casto&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Making%20continuous%20delivery%20easier,%20one%20release%20at%20a%20time.&descAlignY=58&descSize=16" alt="Graziano Casto — Making continuous delivery easier, one release at a time." /> </p> <p align="center"> Developer Advocate @ <a href="https://akuity.io">Akuity</a> · Co-Chair, CNCF TAG Developer Experience<br/> Platform Engineering · GitOps · Kubernetes · DevEx </p> <p align="center"> <a href="https://castograziano.com"><img src="https://img.shields.io/badge/castograziano.com-111111?style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/castograziano/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=f15a24" /></a> </p>
 ---
 
 ### `$ kubectl describe human graziano`
